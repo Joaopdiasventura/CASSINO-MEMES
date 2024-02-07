@@ -1,0 +1,10 @@
+C:\Users\Joao Paulo\Desktop\cassino\bin\Debug\cassino.exe.config
+C:\Users\Joao Paulo\Desktop\cassino\bin\Debug\cassino.exe
+C:\Users\Joao Paulo\Desktop\cassino\bin\Debug\cassino.pdb
+C:\Users\Joao Paulo\Desktop\cassino\obj\Debug\cassino.csproj.AssemblyReference.cache
+C:\Users\Joao Paulo\Desktop\cassino\obj\Debug\cassino.Form1.resources
+C:\Users\Joao Paulo\Desktop\cassino\obj\Debug\cassino.Properties.Resources.resources
+C:\Users\Joao Paulo\Desktop\cassino\obj\Debug\cassino.csproj.GenerateResource.cache
+C:\Users\Joao Paulo\Desktop\cassino\obj\Debug\cassino.csproj.CoreCompileInputs.cache
+C:\Users\Joao Paulo\Desktop\cassino\obj\Debug\cassino.exe
+C:\Users\Joao Paulo\Desktop\cassino\obj\Debug\cassino.pdb
